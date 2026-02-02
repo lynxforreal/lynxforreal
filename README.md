@@ -2,9 +2,16 @@
 
 ## Profile
 
-I am a cybersecurity student focused on **offensive security research** with a long‑term goal of working in **Red Team operations**. My work centers on understanding how modern attacks are designed, executed, and detected — and using that understanding to build realistic proofs of concept, research tooling, and analysis workflows.
+I am a cybersecurity student focused on **offensive security research** with a long-term goal of working in **Red Team operations**. My work centers on understanding how modern attacks are designed, executed, and detected — and using that understanding to build realistic proofs of concept, research tooling, and analysis workflows.
 
 All of my work is conducted **legally and ethically** within isolated lab environments (virtual machines, controlled networks). The objective is not exploitation for its own sake, but developing a **deep technical intuition** for attacker tradecraft and defender visibility.
+
+---
+
+## Contact & Presence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:example@mail.com)
 
 ---
 
@@ -12,28 +19,18 @@ All of my work is conducted **legally and ethically** within isolated lab enviro
 
 ### Programming
 
-* ** (Advanced)**
-  Used as my primary language for:
+#### Languages
 
-  * Security research tooling
-  * Automation and workflow scripting
-  * Data extraction, analysis, and experiment orchestration
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
 
-* **![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
- (Intermediate)**
-  Used for:
+#### Usage Focus
 
-  * Reading and understanding low‑level codebases
-  * Implementing research prototypes
-  * Studying real‑world offensive techniques from source
-
-* **![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
- (x86/x64)**
-  Working knowledge focused on:
-
-  * Reverse engineering
-  * Understanding compiler output and execution flow
-  * Analyzing low‑level behavior during dynamic analysis
+* **Python**: Security research tooling, automation, orchestration
+* **C / C++**: Research prototypes, low-level code analysis
+* **Assembly (x86/x64)**: Reverse engineering, execution flow analysis
 
 ---
 
@@ -131,11 +128,5 @@ Repositories are structured to reflect **learning outcomes and technical reasoni
 All work shared here is for **education, research, and defensive awareness**. No content is intended for unauthorized use against real systems.
 
 ---
-
-How to reach me?
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-
 
 If you are interested in offensive security research, malware analysis, or red team methodology, feel free to explore the repositories or reach out.
