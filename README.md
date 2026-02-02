@@ -10,8 +10,8 @@ All of my work is conducted **legally and ethically** within isolated lab enviro
 
 ## Contact & Presence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:example@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ismail-efe-t%C3%BCrkmen-572697294/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:efeturkmen189@protonmail.com)
 
 ---
 
