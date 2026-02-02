@@ -12,7 +12,8 @@ All of my work is conducted **legally and ethically** within isolated lab enviro
 
 ### Programming
 
-* **Python (Advanced)**
+* **Python (Advanced) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**
   Used as my primary language for:
 
   * Security research tooling
