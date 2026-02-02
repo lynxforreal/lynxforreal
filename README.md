@@ -12,22 +12,23 @@ All of my work is conducted **legally and ethically** within isolated lab enviro
 
 ### Programming
 
-* **Python (Advanced) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-**
+* ** (Advanced)**
   Used as my primary language for:
 
   * Security research tooling
   * Automation and workflow scripting
   * Data extraction, analysis, and experiment orchestration
 
-* **C / C++ (Intermediate)**
+* **![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+ (Intermediate)**
   Used for:
 
   * Reading and understanding low‑level codebases
   * Implementing research prototypes
   * Studying real‑world offensive techniques from source
 
-* **Assembly (x86/x64)**
+* **![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+ (x86/x64)**
   Working knowledge focused on:
 
   * Reverse engineering
