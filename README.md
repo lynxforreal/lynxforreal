@@ -132,4 +132,10 @@ All work shared here is for **education, research, and defensive awareness**. No
 
 ---
 
+How to reach me?
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+
+
 If you are interested in offensive security research, malware analysis, or red team methodology, feel free to explore the repositories or reach out.
